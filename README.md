@@ -30,3 +30,7 @@ Melbourne | Apr 2023 - Present
 - Implemented machine learning algorithms and computer vision techniques to develop a bartender robot
 - Processed and augmented data to apply computer vision techniques through processes such as inverse kinematics
 
+## Software Experience
+
+### Kinder Kit | Java
+
