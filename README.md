@@ -40,7 +40,7 @@ Melbourne | Apr 2023 - Present
 
 ### [Pedometer](https://github.com/jarodtang85/Pedometer)
 
-### []()
+### [Sensor Data Processing](https://github.com/jarodtang85/Sensor-Data-Processing)
 
 
 
