@@ -32,13 +32,17 @@ Melbourne | Apr 2023 - Present
   
 ## Independent Software Projects
 
-### Rescue Bot
+### [Rescue Bot](https://github.com/jarodtang85/RescueBot)
 
-### Kinder Kit
+### [Kinder Kit](https://github.com/jarodtang85/Kinder-Kit)
 
 ### Kalman Filter
 
-### Pedometer
+### [Pedometer](https://github.com/jarodtang85/Pedometer)
+
+### Image Processing
+
+
 
 
 
