@@ -36,11 +36,11 @@ Melbourne | Apr 2023 - Present
 
 ### [Kinder Kit](https://github.com/jarodtang85/Kinder-Kit)
 
-### Kalman Filter
+### [Indoor Positioning System](https://github.com/jarodtang85/Indoor-Positioning-System)
 
 ### [Pedometer](https://github.com/jarodtang85/Pedometer)
 
-### Image Processing
+### []()
 
 
 
