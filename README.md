@@ -23,6 +23,18 @@ Melbourne | Jul 2022 - Present
 - Responsible for overseeing team member mechanical designs and strength analysis
 - Ensured that projects were completed within a timely manner and to a satisfactory standard
 
+## Software Projects
+
+### Rescue Bot
+
+### Kinder Kit
+
+### Kalman Filter
+
+### Pedometer
+
+
+
 ### Melbourne Space Program | Computer Vision and Software Engineer
 
 Melbourne | Apr 2023 - Present
