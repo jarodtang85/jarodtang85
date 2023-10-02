@@ -22,7 +22,13 @@ Melbourne | Jul 2022 - Present
 
 - Responsible for overseeing team member mechanical designs and strength analysis
 - Ensured that projects were completed within a timely manner and to a satisfactory standard
+  
+### Melbourne Space Program | Computer Vision and Software Engineer
 
+Melbourne | Apr 2023 - Present
+
+- Implemented machine learning algorithms and computer vision techniques to develop a bartender robot
+- Processed and augmented data to apply computer vision techniques through processes such as inverse kinematics
 ## Software Projects
 
 ### Rescue Bot
@@ -33,13 +39,5 @@ Melbourne | Jul 2022 - Present
 
 ### Pedometer
 
-
-
-### Melbourne Space Program | Computer Vision and Software Engineer
-
-Melbourne | Apr 2023 - Present
-
-- Implemented machine learning algorithms and computer vision techniques to develop a bartender robot
-- Processed and augmented data to apply computer vision techniques through processes such as inverse kinematics
 
 
