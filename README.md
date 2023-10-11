@@ -4,8 +4,8 @@ Thanks for visiting my portfolio repo. I am current University of Melbourne Mast
 My academic experience in mechatronics together with my experience gained through engineering student teams has geared my interest towards the application of robotics and AI in everyday life.
 
 ## Education
-- University of Melbourne: Melbourne - Bachelor of Science
-- University of Melbourne: Melbourne - Master of Mechatronics Engineering
+- University of Melbourne: Bachelor of Science - Completed
+- University of Melbourne: Master of Mechatronics Engineering - Currently Ongoing (Expected graduation year is 2024)
   
 ## Technical Skills
 ### Langugages & Frameworks
